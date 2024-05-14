@@ -1,1 +1,2 @@
 # Sentiment-Analysis-of-Restaurant-Reviews.
+This project aims to develop a machine learning model that can analyze and classify the sentiment of restaurant reviews. By leveraging natural language processing (NLP) techniques and various machine learning algorithms, the project seeks to automate the process of determining whether a review expresses positive, negative, or neutral sentiment. This tool can provide valuable insights for restaurant owners to improve their services and for potential customers to make informed dining decisions.
